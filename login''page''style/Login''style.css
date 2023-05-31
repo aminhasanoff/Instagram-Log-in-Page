@@ -1,0 +1,130 @@
+._aajm {
+    color: grey;
+    border: none;
+    text-align: right;
+    font-size: 60%;
+}
+#theEnd {
+    color: gray;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60%;
+}
+.footer1{
+    color: gray;
+    text-align: left;
+    margin-left: 255px;
+    word-spacing: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60%;    
+    padding-left: 75px;
+}
+.footer1-1{
+    text-decoration: none;
+}
+.theend1-1{
+    word-spacing: 0.01em;
+}
+.footer1-1:hover{
+    text-decoration: underline;
+}
+.footer2{
+    text-align: center;
+}
+.left{
+    width: 30%;
+    float: left;
+    padding-top: 20px;
+    padding-left: 333px;
+    text-align: center;
+}
+.right input{
+    width: 260px;
+    margin: 30px 40px 0 40px;
+    padding: 10px 8px;
+    border-radius: 3px;
+    border-color: gainsboro;
+    outline-color: gray;
+    font-size: 12px;
+    border: 0.5px solid lightgray;
+}
+.right input[type="password"]{
+    margin: 8px 40px 0 40px;
+}
+.clear{
+    clear: both;
+}
+.box2{
+    border: 1px solid lightgray;
+    float: right;
+    width: 350px;
+    padding: 15px 20px 10px 70px;
+    box-sizing: border-box;
+    margin: 10px 0 20px 0;
+}
+.box1{
+    border: 1px solid lightgray;
+    padding-top: 30px;
+    text-align: center;
+    float: left;
+    margin: 10px 0 0 0;
+    width: 350px;
+    height: 370px;
+}
+.login{
+    background-color: rgb(79, 193, 255);
+    color: white;
+    width: 270px;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    margin: 8px 0 12px 0;
+    padding: 10px;
+}
+.right{
+    border: 1px solid white;
+    text-align: center;
+    float: right;
+    margin: 0 314px 0 0;
+    right: 90px;
+    padding: 26px;
+    z-index: 2;
+}
+.rightftr{
+    text-align: center;
+    margin: 20px 0 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.dwnld{
+    text-align: center;
+}
+.contentCurve1{
+    border-bottom: 1px solid silver;
+    font-size: 1px;
+    height: 8px;
+    margin-bottom: 8px;
+    width: 150px;
+}
+.contentCurve2{
+    border-bottom: 1px solid silver;
+    font-size: 1px;
+    height: 8px;
+    margin-bottom: 8px;
+    width: 150px;
+    margin-left: 200px;
+}
+.frgtpsswrd{
+    height: 50px;
+    padding: 0 15px;
+    margin: 10px 0 15px 0;
+    text-decoration: none;
+    font-size: 15px;
+}
+.signup{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: left;
+    padding-left: 5px;
+    height: 30px;
+}
